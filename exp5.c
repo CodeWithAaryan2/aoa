@@ -45,3 +45,5 @@ Enter knapsack capacity: 50
 Enter value and weight for item 1: 60 10
   Enter value and weight for item 2:100 20
   Enter value and weight for item 3: 120 30
+
+Maximum value in knapsack = 240.00
