@@ -43,3 +43,10 @@ int main()
     return 0;
 }
 Output:
+Enter number of elemet: 4
+Enter 4 element 
+12 43 13 1
+original array
+12 43 13 1 
+sorted array
+1 12 13 43
